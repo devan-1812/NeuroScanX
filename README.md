@@ -1,4 +1,5 @@
 🚀 **NeuroScanX – Multimodal AI Health Insight & Triage System**
+
 Advanced Medical Reasoning • Image + Text Analysis • Trend Tracking • Voice Summaries • PDF Reports
 
 NeuroScanX is a next-generation AI-powered medical insight engine designed to analyze symptoms using multimodal inputs — images, text, voice, timelines, and medication photos — and produce safe, structured, clinically styled triage reports.
