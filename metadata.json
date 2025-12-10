@@ -1,0 +1,7 @@
+{
+  "name": "NeuroScanX",
+  "description": "Advanced multimodal medical triage and symptom-analysis assistant with a premium, futuristic UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
